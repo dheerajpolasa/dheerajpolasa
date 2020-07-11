@@ -4,7 +4,7 @@
 <!-- 😄 Pronouns: ... -->
 Here are some of my details :
 
-- 🔭 I’m currently working on **Backend Development and AWS**
+- 🔭 I’m currently working on **Backend and AWS**
 - 🌱 I’m currently learning **Node JS, React JS and AWS**
 - 👯 I’m looking to collaborate on **Node JS**
 - 🤔 I’m looking for help with **Frontend**
