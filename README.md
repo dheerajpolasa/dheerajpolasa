@@ -1,8 +1,8 @@
-### Hi World 👋 <img src=" https://github.com/dheerajpolasa/dheerajpolasa/blob/master/Assests/Hi.gif" width="29px">
+### Hi World <img src="https://github.com/dheerajpolasa/dheerajpolasa/blob/master/Assests/Hi.gif" width="29px">
 <!--
 **dheerajpolasa/dheerajpolasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <!-- 😄 Pronouns: ...
-- 📫 How to reach me: **dheerajpolasa40@gmail.com**
+- 📫 How to reach me: **dheerajpolasa40@gmail.com** 👋 
 -->
 Here are some of my details :
 
