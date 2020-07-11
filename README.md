@@ -11,6 +11,6 @@ Here are some of my details :
 - 👯 I’m looking to collaborate on **Node JS**
 - 🤔 I’m looking for help with **Frontend**
 - 💬 Ask me about **Backend, Automation and DevOps**
-- ⚡ Fun fact: **I am Introvert**
+- ⚡ Fun fact: **A superstion I believe: Do not cut nails after sunset 😄**
 
 ![alt text](https://cdn.dribbble.com/users/2424687/screenshots/6065697/cat-01.png)
