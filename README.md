@@ -12,4 +12,9 @@ Here are some of my details :
 - 📫 How to reach me: **dheerajpolasa40@gmail.com**
 - ⚡ Fun fact: **I am Introvert**
 
+<script>
+    window.onLoad(function() {
+  <p> Yay! </p>
+    })
+</script>
 ![alt text](https://cdn.dribbble.com/users/2424687/screenshots/6065697/cat-01.png)
